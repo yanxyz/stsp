@@ -1,0 +1,10 @@
+Usage: stsp [options]
+
+  Create .sublime-project in the current directory.
+  If the file already exists, do nothing.
+
+Options:
+
+  -n, --name   file name, default is the current directory name
+
+Readme:  https://github.com/yanxyz/stsp
